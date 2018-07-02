@@ -1,0 +1,15 @@
+nNIFEST
+.idea
+*build/
+.tox
+*.log
+*.cache
+dist/
+*egg-info/
+*.DS_Store
+.coverage
+htmlcov
+results.xml
+
+local.py
+local_test.py

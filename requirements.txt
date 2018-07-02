@@ -1,0 +1,7 @@
+tox==1.7.2
+Flask==0.10.1
+Flask-RESTful==0.2.12
+Flask-WTF==0.10.3
+requests==2.4.3
+PyMySQL==0.7.9
+sqlalchemy==1.1.3
